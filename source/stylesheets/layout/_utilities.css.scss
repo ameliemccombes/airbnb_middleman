@@ -6,8 +6,8 @@
 
 // Paddings
 .padded {
-  padding-top: 5em;
-  padding-bottom: 5em;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 // Backgrounds
@@ -22,4 +22,11 @@
 }
 .bg-facebook {
   background: #3b5998;
+}
+
+h2 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-top: 0;
 }
