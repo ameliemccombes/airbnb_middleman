@@ -12,21 +12,16 @@
 
 // Backgrounds
 .bg-text {
-  background: #4a4a4a;
+  background: $yellow;
 }
 .bg-email {
-  background: #aeaeae;
+  background: $brand-color;
 }
 .bg-twitter {
-  background: #00a3e1;
+  background: $blue;
 }
 .bg-facebook {
-  background: #3b5998;
+  background: $blue;
 }
 
-h2 {
-    font-size: 28px;
-    font-weight: bold;
-    margin-bottom: 30px;
-    margin-top: 0;
-}
+
